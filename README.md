@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Paulina Povis</h1>
-<h3 align="center">Soy Desarroladora Web apasionada</h3>
+<h3 align="center">Soy Desarroladora Web </h3>
 
 - 💬 Ask me about **html,css,java,javascript**
 
